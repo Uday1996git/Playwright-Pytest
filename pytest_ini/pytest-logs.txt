@@ -1,0 +1,2 @@
+2024-07-16 17:40:11 INFO Before capturing the url value
+2024-07-16 17:40:11 INFO After capturing the url value https

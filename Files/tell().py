@@ -1,0 +1,5 @@
+obj = open("..//Data//demo.txt", 'r')
+obj.readline()
+print(obj.tell())
+obj.readline()
+print(obj.tell())
